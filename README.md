@@ -5,4 +5,4 @@
 
 ### My states:
 
-[!state](https://github-readme-stats.vercel.app/api/top-langs?username=trashmarket&show_icons=true&locale=en&layout=compact)
+![state](https://github-readme-stats.vercel.app/api/top-langs?username=trashmarket&show_icons=true&locale=en&layout=compact)
