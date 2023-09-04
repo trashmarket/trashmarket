@@ -4,7 +4,7 @@
 [![My Skills](https://skillicons.dev/icons?i=html,react,vue,js,jest,css,jquery,mysql,mongodb,nestjs,nodejs,ps,postgres,postman,redux,sass,ts,docker,express,figma&theme=light)](https://skillicons.dev)
 
 ### My states:
-<div style="displey: flex">
+<div style="display: flex;">
 ![state](https://github-readme-stats.vercel.app/api/top-langs?username=trashmarket&show_icons=true&locale=en&layout=compact)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=trashmarket&theme=ocean-gradient&hide_border=true&border_radius=18.8)](https://git.io/streak-stats)
