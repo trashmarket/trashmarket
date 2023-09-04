@@ -5,7 +5,7 @@
 
 ### My states:
 <div style="display: flex;">
-![state](https://github-readme-stats.vercel.app/api/top-langs?username=trashmarket&show_icons=true&locale=en&layout=compact)
+[![state](https://github-readme-stats.vercel.app/api/top-langs?username=trashmarket&show_icons=true&locale=en&layout=compact)]
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=trashmarket&theme=ocean-gradient&hide_border=true&border_radius=18.8)](https://git.io/streak-stats)
 </div>
